@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi, the username TheWizard25 is no longer used. 
+#### The new username is hemantdhankar. The link for the same is https://github.com/hemantdhankar
+##### This account will be deleted soon.
+##### See you there...
 <!--
 **TheWizard25/TheWizard25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
